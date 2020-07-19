@@ -1,4 +1,4 @@
 # hello-world
-my first repository
+My first repository!
 
-Hello, this is my first edit in my first repository. Bye
+Here is my first repository on this account. I created it entirely within the GitHub interface using the instructions located at: https://guides.github.com/activities/hello-world/
